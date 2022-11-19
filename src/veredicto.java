@@ -1,6 +1,6 @@
 public class veredicto {
 
-    public  static String veredict(String valor1, String valor2){
+    private static String veredict(String valor1, String valor2){
 
 
         if(valor1.equals(valor2)){
